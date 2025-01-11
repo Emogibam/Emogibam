@@ -4,7 +4,7 @@
 I'm a passionate software developer with a keen interest in web development, data science, and open source projects. I love learning new technologies and improving my skills through hands-on projects.
 
 ### 💼 Technical Skills
-- **Languages**: Python, JavaScript, Java, C#
+- **Languages**: Python, JavaScript, Java, C#, GO
 - **Web Development**: HTML, CSS, React, Node.js, Express
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Databases**: MySQL, PostgreSQL, MongoDB
