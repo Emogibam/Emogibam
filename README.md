@@ -9,6 +9,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms**: Git, Docker, Kubernetes, AWS
+- **ORMs**: EF COre, NHibernate, Dapper
 
 ### 🌱 Currently Learning
 - Advanced machine learning techniques
