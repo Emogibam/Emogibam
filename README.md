@@ -1,7 +1,12 @@
-# 👋 Hi, I'm Emogibam!
+# 👋 Hi, I'm Emmanuel Ogidan!
 
 ### 🚀 About Me
-I'm a passionate software developer with a keen interest in web development, data science, and open source projects. I love learning new technologies and improving my skills through hands-on projects.
+Experienced Developer with a proven track record in the development and maintenance of
+ applications. Actively engages in the complete Software Development Life Cycle (SDLC),
+ from requirements gathering to deployment and maintenance. Adept at writing, testing, and
+ debugging code to ensure optimal performance, and collaborating with cross-functional
+ teams to drive project success. Skilled in technical documentation management, code reviews,
+ and maintaining code repositories with a focus on version control.
 
 ### 💼 Technical Skills
 - **Languages**: Python, JavaScript, Java, C#, GO
