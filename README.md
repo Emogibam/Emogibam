@@ -9,7 +9,7 @@ Experienced Developer with a proven track record in the development and maintena
  and maintaining code repositories with a focus on version control.
 
 ### 💼 Technical Skills
-- **Languages**: Python, JavaScript, Java, C#, GO
+- **Languages**: C#, Python, JavaScript, Java, GO
 - **Web Development**: HTML, CSS, React, Node.js, Express
 - **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Databases**: MySQL, PostgreSQL, MongoDB
@@ -38,7 +38,7 @@ Check out my personal website for more information
 I'm always open to collaborating on interesting projects and contributing to open source. Feel free to reach out if you have any exciting ideas!
 
 ### ⚡ Fun Fact
-I enjoy hiking, photography, and playing the guitar in my free time.
+I enjoy hiking, photography, and farming .
 
 ---
 
