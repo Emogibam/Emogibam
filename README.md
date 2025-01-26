@@ -35,10 +35,9 @@ Experienced Developer with a proven track record in the development and maintena
 Check out my personal website for more information
 
 ### 🤝 Contributions
-I'm always open to collaborating on interesting projects and contributing to open source. Feel free to reach out if you have any exciting ideas!
 
 ### ⚡ Fun Fact
-I enjoy hiking, photography, and farming .
+I enjoy hiking, photography, and farming.
 
 ---
 
